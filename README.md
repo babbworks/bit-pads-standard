@@ -1,1 +1,1 @@
-# bit-pads-standard
+# Bitpads Standard
